@@ -1,0 +1,1355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\93953026e8170e49b4186f08f8e373fc\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\b29c79b7da3bfcd4efac2c4bc75d0b78\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\b29c79b7da3bfcd4efac2c4bc75d0b78\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\3d889ea3b2756f01ba3641a958b2ad42\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\f8cc477d394f9e55d3c5640a817c01b3\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5a743d0934e90e7f26d75a2463142c4b884b2981">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.12\6ec0bbd3e161a73ed672284b587fd32309a86d7a\tubesock-0.0.12.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\01d7d5781c879b7b97959f0803c02404\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9bdfc3e83c6bc1f8bc5807cdaf7e94ac884a2a0d">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\01d7d5781c879b7b97959f0803c02404\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9bdfc3e83c6bc1f8bc5807cdaf7e94ac884a2a0d">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.12\6ec0bbd3e161a73ed672284b587fd32309a86d7a\tubesock-0.0.12.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\d3e105e7e3a2a8b7a46facf7abfad35e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="80d9ff49e99ff481062ea190b43e8d6bdffd4ddc">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.3.0\9e09011e9767bb76b5e27c9b8223476b93b14631\converter-gson-2.3.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\a041dbd51fd1c1bfbab76353c26ab7c4\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b466a6a5cc990dc6e249bcfaa9e9c8ed\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\d3e105e7e3a2a8b7a46facf7abfad35e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="80d9ff49e99ff481062ea190b43e8d6bdffd4ddc">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.3.0\9e09011e9767bb76b5e27c9b8223476b93b14631\converter-gson-2.3.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\cc4f4046666e90ee50d6ce6a40d24a04\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\a041dbd51fd1c1bfbab76353c26ab7c4\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\modules-2\files-2.1\com.esotericsoftware\minlog\1.3.0\ff07b5f1b01d2f92bb00a337f9a94873712f0827\minlog-1.3.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ff07b5f1b01d2f92bb00a337f9a94873712f0827">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\1d33c87e160dc7e01b0485c7edf3f7dd\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="849177ecbfe8de97689570a877a0e6b035630bd4">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\modules-2\files-2.1\com.esotericsoftware\minlog\1.3.0\ff07b5f1b01d2f92bb00a337f9a94873712f0827\minlog-1.3.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ff07b5f1b01d2f92bb00a337f9a94873712f0827">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\1d33c87e160dc7e01b0485c7edf3f7dd\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="849177ecbfe8de97689570a877a0e6b035630bd4">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\ee9214fd69a5180f93a137552dc726af\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.8.0.aar\b2fc9155aac4569d25fc31018865f1fb\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4b882397288de69e13ff147bdefe584cc6deb055">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\ee9214fd69a5180f93a137552dc726af\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\142413c0e66f3d52df80f2f35a744a53\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e6aeff19a2ce1eb896557be73cb9ceb56f8d1cf3">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\0919d2e8a9d5c26afcc4b19be434d0a1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="13430a12bb2eb82b397f10f61fe1f6989279c6bd">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\142413c0e66f3d52df80f2f35a744a53\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e6aeff19a2ce1eb896557be73cb9ceb56f8d1cf3">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\0919d2e8a9d5c26afcc4b19be434d0a1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="13430a12bb2eb82b397f10f61fe1f6989279c6bd">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\modules-2\files-2.1\org.objenesis\objenesis\2.5.1\272bab9a4e5994757044d1fc43ce480c8cb907a4\objenesis-2.5.1.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="272bab9a4e5994757044d1fc43ce480c8cb907a4">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\modules-2\files-2.1\org.objenesis\objenesis\2.5.1\272bab9a4e5994757044d1fc43ce480c8cb907a4\objenesis-2.5.1.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="272bab9a4e5994757044d1fc43ce480c8cb907a4">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\91dd56b818820f7a2ba90edbb143fa0d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\diagonallayout-1.0.7.aar\3753dfbc8d7b61001864992274ac2b47\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="66131c58e4e70f7d937b938daac48a716a4c4a20">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\6b05fc123844c85b1fd7efacc161ae8a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\235fc5c4c6df3785e74ae8455ed553fa\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f039f769902fdb48ca97ed9ec862a070\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\b7047452c9c33c7e69883f80faaaa773\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\6d3bb2320a9f48ea1d409fd9723c8bce\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6694a48b4aee711a0577936e25068b4ea3eafc8b">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\38baac1dbf7d1139b9cd0cb5d5d09768\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f2ea3509c756b64ffd93c06beda099d8\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\org\ow2\asm\asm\5.0.4\asm-5.0.4.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0da08b8cce7bbf903602a25a3a163ae252435795">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\235fc5c4c6df3785e74ae8455ed553fa\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\org\ow2\asm\asm\5.0.4\asm-5.0.4.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0da08b8cce7bbf903602a25a3a163ae252435795">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f2ea3509c756b64ffd93c06beda099d8\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\38baac1dbf7d1139b9cd0cb5d5d09768\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.3.0\bcacde6a8ccedcc56c127403d26b76072fe6214d\retrofit-2.3.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\fd98f4871900943bbae678d644f82756\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\68895d079bab31dfba66f7ed0db43402\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9bdfc3e83c6bc1f8bc5807cdaf7e94ac884a2a0d">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\modules-2\files-2.1\com.flaviofaria\kenburnsview\1.0.7\ce4e8bba9e026dd29f8110b2f6bb1fc4ecbdd9b1\kenburnsview-1.0.7.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ce4e8bba9e026dd29f8110b2f6bb1fc4ecbdd9b1">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\fd98f4871900943bbae678d644f82756\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.3.0\bcacde6a8ccedcc56c127403d26b76072fe6214d\retrofit-2.3.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\6b05fc123844c85b1fd7efacc161ae8a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\ee56d63f578737cd2ae6f1ddd587ea1e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\7f9a720a4aed2ec3226f312a0284cac5\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="72f505f7eac0852708ca385457d643ea9887166e">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\ee56d63f578737cd2ae6f1ddd587ea1e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\7f9a720a4aed2ec3226f312a0284cac5\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="72f505f7eac0852708ca385457d643ea9887166e">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\blurimage-1.2.0.aar\e0c7d085340c68639a52ff3d1498a20b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1f688898710ef69cb566164912b5390047799666">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\0f97435fa5d4bbaad656779d6f10a7b0\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5a743d0934e90e7f26d75a2463142c4b884b2981">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\modules-2\files-2.1\com.esotericsoftware\reflectasm\1.11.3\8b102eed2f12412b254946811111ea48bc03a266\reflectasm-1.11.3.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8b102eed2f12412b254946811111ea48bc03a266">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\modules-2\files-2.1\com.esotericsoftware\reflectasm\1.11.3\8b102eed2f12412b254946811111ea48bc03a266\reflectasm-1.11.3.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8b102eed2f12412b254946811111ea48bc03a266">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\7bc78467bf0a00746893b68202feed52\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c601ce0dc38ec4845f5de5015d275da8bee153a3">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\ebb19ddbdcc385e4977486fecf1a4a61\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\7bc78467bf0a00746893b68202feed52\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c601ce0dc38ec4845f5de5015d275da8bee153a3">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\0690eeb54796239c84ee9d5abe12109a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="13430a12bb2eb82b397f10f61fe1f6989279c6bd">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\0f97435fa5d4bbaad656779d6f10a7b0\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5a743d0934e90e7f26d75a2463142c4b884b2981">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\ed0fadc41a8504a75ce2d3a571714e74\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\8e46f8e095d6e95143fca4c905f000bf\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="849177ecbfe8de97689570a877a0e6b035630bd4">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\8a7ce9729be694591d45259cf4a6b54e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.4\5fe28b9518e58819180a43a850fbc0dd24b7c050\commons-lang3-3.4.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5fe28b9518e58819180a43a850fbc0dd24b7c050">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5125207ee0505a0f32c79e2c5d6a1358\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\df12d4645cbf6959c98fbcea919e3f0a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="122de0d704f76d2bb5cb9db66e00fe90a0a41e78">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5125207ee0505a0f32c79e2c5d6a1358\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\df12d4645cbf6959c98fbcea919e3f0a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="122de0d704f76d2bb5cb9db66e00fe90a0a41e78">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\f39de1aef375076e4f955251a35a6532\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\9eebdf9d0f6d6e54e9623573ca076b0a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c601ce0dc38ec4845f5de5015d275da8bee153a3">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\f39de1aef375076e4f955251a35a6532\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\90a098e18e2e39d66b455fc263248c78\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="80d9ff49e99ff481062ea190b43e8d6bdffd4ddc">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.0\5a11f020cce2d11eb71ba916700600e18c4547e7\okhttp-3.8.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.0\5a11f020cce2d11eb71ba916700600e18c4547e7\okhttp-3.8.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\10afaeb5538e31cf988634f5c4575a4f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\diagonallayout-1.0.7.aar\89f3a399beabd376c474137197917ea7\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="66131c58e4e70f7d937b938daac48a716a4c4a20">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\12bb974420c229faa91c0d0895f794df\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\paperdb-2.5.aar\4d0da7fd0b6851894acb7bf1f9876a1b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="14ecc90464cfb04eb80a81dea86556355a0e171d">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\0a8811e4dbdcc20d236a8f24572875d5\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e6aeff19a2ce1eb896557be73cb9ceb56f8d1cf3">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\modules-2\files-2.1\com.esotericsoftware\kryo\4.0.1\5053899c213a6ce50a800d4902c5a9de49fe0098\kryo-4.0.1.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5053899c213a6ce50a800d4902c5a9de49fe0098">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\AppData\Local\Android\Sdk\build-tools\26.0.2\renderscript\lib\renderscript-v8.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="215805fbe923c9b192d4a9a3d13a07c7fc1d3f53">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\db3b30591403eab181e8f842e82d78ab\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\db3b30591403eab181e8f842e82d78ab\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\paperdb-2.5.aar\36a8b291fed5020d4be30fdeffe521c2\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="14ecc90464cfb04eb80a81dea86556355a0e171d">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.2\3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf\gson-2.8.2.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\d064fe63d75d2bc3cbbf10ec254d37f8\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.2\3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf\gson-2.8.2.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\4a276b5df8a05ab1c88e4a120f39e68d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\paperdb-2.5.aar\36a8b291fed5020d4be30fdeffe521c2\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="14ecc90464cfb04eb80a81dea86556355a0e171d">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.5.0\7d0473896b3b10b23a2f9812fec4316dff8afdd\firebase-client-android-2.5.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="07d0473896b3b10b23a2f9812fec4316dff8afdd">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\e758cabcb545d2340fdd2c8d2e99afe5\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="42c9659c973e311ffdb645ed057e5053e0ab5c78">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\d01086d36f8546f54e41c985d9985435\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.5.0\7d0473896b3b10b23a2f9812fec4316dff8afdd\firebase-client-android-2.5.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="07d0473896b3b10b23a2f9812fec4316dff8afdd">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\4a276b5df8a05ab1c88e4a120f39e68d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\e758cabcb545d2340fdd2c8d2e99afe5\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="42c9659c973e311ffdb645ed057e5053e0ab5c78">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\d01086d36f8546f54e41c985d9985435\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\modules-2\files-2.1\com.esotericsoftware\kryo\4.0.1\5053899c213a6ce50a800d4902c5a9de49fe0098\kryo-4.0.1.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5053899c213a6ce50a800d4902c5a9de49fe0098">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\4bb0766d8dc88257a33ca287c7c70142\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="42c9659c973e311ffdb645ed057e5053e0ab5c78">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\b5fdca89f3b58876bc9920d0ea3fe00d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="72f505f7eac0852708ca385457d643ea9887166e">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\af2cf7528e0a54d8110ab0c9f801ee44\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="122de0d704f76d2bb5cb9db66e00fe90a0a41e78">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4a6d8fae1cbb84d8460a2451056458fa\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d950b025af842b7cf3f97786caeede3a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4a6d8fae1cbb84d8460a2451056458fa\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\4af4358d6528ef5d42b48adbb58f9b89\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.8.0.aar\e34f18ec8d2d4a3e75e811e392b6a050\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4b882397288de69e13ff147bdefe584cc6deb055">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\1be227da7784416348ce473c1e21df23\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.8.0.aar\e34f18ec8d2d4a3e75e811e392b6a050\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4b882397288de69e13ff147bdefe584cc6deb055">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\710ddb974a917bbb494f96f917880a6d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="264ad23f9752aabecfa41115c52a25a023a08839">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\518bc9504789978db7587cff4992a7fd\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="264ad23f9752aabecfa41115c52a25a023a08839">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\3478214fc00ce429854b9b6cb678f6bb\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6694a48b4aee711a0577936e25068b4ea3eafc8b">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\modules-2\files-2.1\de.javakaffee\kryo-serializers\0.40\562cb61898302da4e8d3fd141c821edb1bc6b36d\kryo-serializers-0.40.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="562cb61898302da4e8d3fd141c821edb1bc6b36d">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\1be227da7784416348ce473c1e21df23\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\modules-2\files-2.1\de.javakaffee\kryo-serializers\0.40\562cb61898302da4e8d3fd141c821edb1bc6b36d\kryo-serializers-0.40.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="562cb61898302da4e8d3fd141c821edb1bc6b36d">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\60ae3577d502544ed8f7ea6ac130c4e3\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\5fbb8a522e64f6ef287a37252d078ceb\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\62d50f3b266c1639be096a760ef9d913\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\5fbb8a522e64f6ef287a37252d078ceb\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\710ddb974a917bbb494f96f917880a6d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="264ad23f9752aabecfa41115c52a25a023a08839">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\3478214fc00ce429854b9b6cb678f6bb\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6694a48b4aee711a0577936e25068b4ea3eafc8b">
+        <dex dex="C:\Users\lucap\Downloads\RadioBicocca\Application\build\intermediates\transforms\preDex\release\47.jar" />
+    </item>
+
+</items>

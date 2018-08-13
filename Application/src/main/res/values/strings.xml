@@ -1,0 +1,123 @@
+<!--
+  ~ Copyright 2017 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">Radio Bicocca</string>
+    <string name="label_stop" translatable="false">Stop</string>
+    <string name="label_pause" translatable="false">Pause</string>
+    <string name="label_play" translatable="false">Play</string>
+    <string name="label_play_pause" translatable="false">Play and pause toggle</string>
+
+    <!--AGGIUNTI-->
+    <string name="read_more">Leggi l\'articolo completo</string> <!--Non usato-->
+    <string name="loading_string">Caricamento...</string>
+    <string name="share_article_string">Ho letto questo articolo di Radio Bicocca. Dagli un\'occhiata.</string>
+    <string name="share_app">Scarica l\'app gratuita di Radio Bicocca sul Play Store</string>
+    <string name="share_diretta_string1">"Sto ascoltando "</string>
+    <string name="share_diretta_string3">la un programma in diretta</string>
+    <string name="share_diretta_string2">" tramite l'app ufficiale di Radio Bicocca"</string>
+
+    <string name="nav_palinsesto">Palinsesto</string>
+    <string name="nav_news">News</string>
+    <string name="nav_messaggi">Messaggi</string>
+    <string name="nav_seguici">Seguici</string>
+    <string name="nav_share">Condividi</string>
+    <string name="nav_settings">Impostazioni</string>
+
+    <string name="title_messaggi">Messaggi</string>
+    <string name="title_article_detail" translatable="false"></string>
+    <string name="title_activity_settings">Impostazioni</string> <!-- == nav_settings -->
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="action_settings" translatable="false">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="err_no_connection_title">Attenzione</string>
+    <string name="err_no_connection">Non sei connesso ad internet.</string>
+    <string name="pos_dialog_btn" translatable="false">Ok</string>
+
+    <string name="err_no_messages">Non ci sono ancora messaggi</string>
+    <string name="err_no_news">C\'è qualche problema. Riprova più tardi.</string>
+    <string name="title_alert_change_default_username">Attenzione</string>
+    <string name="message_alert_change_default_username">Per proseguire è necessario cambiare username</string>
+
+    <string name="send_hint">Invia un messaggio in diretta</string>
+    <string name="send_button_text">Invia</string>
+
+
+    <!-- Strings related to Settings -->
+
+    <string name="choose_email_client">Scegli come inviare l\'email</string>
+    <string name="default_username" translatable="false"></string>
+    <string name="summary_username">Esegui il login per inviare messaggi in diretta</string>
+    <string name="summary_username2">Logout</string>
+    <string name="title_username" translatable="false">Account</string>
+    <string name="key_username" translatable="false">key_username</string>
+
+    <string name="pref_title_notifications">Notifiche</string>
+    <string name="title_new_notification_sound">Avvisami quando inzia una diretta</string>
+
+    <string name="pref_title_follow_us">Seguici</string>
+    <string name="title_facebook" translatable="false">Facebook</string>
+    <string name="key_facebook" translatable="false">key_facebook</string>
+    <string name="url_facebook" translatable="false">https://www.facebook.com/RadioBicocca/</string>
+    <string name="title_instagram" translatable="false">Instagram</string>
+    <string name="url_instagram" translatable="false">https://www.instagram.com/radiobicocca/</string>
+    <string name="title_twitter" translatable="false">Twitter</string>
+    <string name="url_twitter" translatable="false">https://twitter.com/radiobicocca</string>
+    <string name="title_youtube" translatable="false">YouTube</string>
+    <string name="url_youtube" translatable="false">https://www.mixcloud.com/Radio_Bicocca/</string>
+
+
+    <string name="pref_title_info">Informazioni</string>
+    <string name="name_complete" translatable="false">© 2016 Radio Bicocca - A.S.Media-Bicocca</string>
+    <string name="name_slogan" translatable="false">Radio Biccoca - BIPOP</string>
+    <string name="motto" translatable="false">BiPOP</string>
+    <string name="info_licence" translatable="false">Licenza SCF N. 7/16 - Licenza SIAE 4967/I/4639</string>
+    <string name="info_raduni" translatable="false">Affiliata RadUni anno 2017</string>
+    <string name="info_cf" translatable="false">C.F.: 97730310154</string>
+    <string name="title_version">Versione</string>
+    <string name="app_version" translatable="false">Versione 1.1.4</string>
+    <string name="key_dev" translatable="false">key_dev</string>
+    <string name="title_dev">Sviluppatore</string>
+    <string name="dev_name" translatable="false">Luca Palonca</string>
+    <string name="key_coo" translatable="false">key_coo</string>
+    <string name="title_coo">Coordinatore</string>
+    <string name="coo_name" translatable="false">Andrea Calaminici</string>
+    <string name="dev_info">Sviluppatore: Luca Palonca</string>
+    <string name="summary_feedback">Hai dei suggerimenti? Siamo felici di sentire la tua opinione!</string>
+    <string name="title_feedback">Invia un feedback</string>
+
+    <string name="key_send_feedback" translatable="false">key_send_feedback</string>
+
+    <string name="first_step">Accedi</string>
+    <string name="second_step">Scegli l\'username e invia messaggi in diretta</string>
+    <string name="third_step" translatable="false">Terzo step</string>
+    <string name="ok_button" translatable="false">Ok</string>
+    <!-- Example General settings -->
+
+    <string name="key_upload_over_wifi" translatable="false">key_upload_over_wifi</string>
+    <string name="key_gallery_name" translatable="false">key_gallery_name</string>
+    <string name="key_upload_quality" translatable="false">key_upload_quality</string>
+    <string name="notifications_new_message" translatable="false">notifications_new_message</string>
+    <string name="key_notifications_new_message_ringtone" translatable="false">key_notifications_new_message_ringtone</string>
+    <string name="key_vibrate" translatable="false">key_vibrate</string>
+
+    <string name="google_web_id" translatable="false">297715304866-jdrldupd60ksg3dtardsatuo4tbj5ao2.apps.googleusercontent.com</string>
+    <string name="facebook_app_id" translatable="false">200185010587403</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb200185010587403</string>
+</resources>

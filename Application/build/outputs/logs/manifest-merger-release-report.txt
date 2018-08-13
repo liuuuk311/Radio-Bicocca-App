@@ -1,0 +1,826 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:16:1-236:12
+INJECTED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:16:1-236:12
+INJECTED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:16:1-236:12
+MERGED from [com.jackandphantom.android:blurimage:1.2.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\blurimage-1.2.0.aar\1d70fd157b1fcf32c3975424e71dfa93\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v13:26.1.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\d88a56a79f9479fe1f2de2957173691e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.firebase:firebase-firestore:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-firestore-12.0.0.aar\c10b4f25c7ba20b5160fc90dbd32a126\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-auth:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.0.aar\f7cad1f1555779a3ca879ae289297515\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-auth:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.0.aar\847eca051324db23d809746a5800fea0\AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.firebase:firebase-messaging:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-messaging-12.0.0.aar\94f7263711a17d0891df0fe8e0e81a50\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-crash:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-crash-12.0.0.aar\24ef0304cc16a49e10f35321c81542de\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.firebase:firebase-core:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-core-12.0.0.aar\883839c47143f8d2f7140339d8f24668\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.0.aar\041cb0662c632be22428d8382df90833\AndroidManifest.xml:17:1-54:12
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.0.aar\cdad0717f25eb67b4b5e0179e8d3e67c\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.0.aar\ef298b7d4b8a3b6e0be7eaa0fdd1eccc\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-common:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.0.aar\b2dc13ce91478ddcebb4f5616f619ee2\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-12.0.0.aar\a9def7e0e9530a2a715dd3e3e41af685\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-12.0.0.aar\0cab0d9ae569e637d0667cd57b9f4d13\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.0.aar\5870921f3794f8f32b612eb9b1ddfa46\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.0.aar\ba7a657996f8adfba3497f77cd1e26d1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.0.aar\a8759c24387d536c79822f10c70e6f8a\AndroidManifest.xml:17:1-28:12
+MERGED from [com.facebook.android:facebook-login:4.33.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\facebook-login-4.33.0.aar\4e185b107e12c05eaf649cea1d82df60\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.33.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\facebook-common-4.33.0.aar\ac7e71439136d38dd527832afd3db8fd\AndroidManifest.xml:21:1-36:12
+MERGED from [com.jaeger.statusbarutil:library:1.4.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\library-1.4.0.aar\f849016c87f1f177fd29976d586fff77\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\90e8fb1e4ab3357fdcd04c55fe46a585\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\d5c80629ab4b167bd3129ef583f212f4\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\7d034fb5029d93a6f19acd9925990463\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\50646d661be873f40be40a0ac06e4325\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\0f7bedf746da2a00247ca6140dfe5407\AndroidManifest.xml:17:1-28:12
+MERGED from [com.github.florent37:diagonallayout:1.0.7] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\diagonallayout-1.0.7.aar\115e123b6f5efe6ea47fb0e4657df2f7\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\8c819666a99698cec3de235f93c49dd5\AndroidManifest.xml:2:1-11:12
+MERGED from [io.paperdb:paperdb:2.5] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\paperdb-2.5.aar\25074508b65051e92f0b4f13e7098689\AndroidManifest.xml:2:1-14:12
+MERGED from [com.makeramen:roundedimageview:2.3.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\roundedimageview-2.3.0.aar\7006c0febf7a53436478ef779724048e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.liuguangqiang.swipeback:library:1.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\library-1.0.2.aar\64ef518d4f3d951d550bd33be36a0550\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\3e34223c24daab418038c0100040db50\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b068f8beadf8748a110b2f23c515c0af\AndroidManifest.xml:2:1-11:12
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\7e5ae0634e33f4d911be1de16b3689d9\AndroidManifest.xml:2:1-19:12
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\1e7b5089016e34509d71c4f6766b3308\AndroidManifest.xml:17:1-42:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\307f03184e45b3dd45aafb9f49ca0a82\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-core:4.33.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\4606a4589de5451f5f29961862c921bd\AndroidManifest.xml:21:1-53:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\b59d894bf14e777a241115570994a16b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\e4a9cdfcde0e121e1bb1dfd2359a192e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\0d382ed8a2cc8cfbd654e06df6755c95\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\b111726cc82e460aa5eea7823e8a42b5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\c0cd3651123518dd81d449fea1d00707\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\38226d3396703723fb461f7f6e70243f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\5e0673b516d6de43bb7dc45db376d3b5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\ea85e07407a147e6cfc8351a5162aea8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-license:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-12.0.0.aar\d748e4ebce6211045c819dc807b45818\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-12.0.0.aar\fe0c305d6e7c1cb0fce5e58ac4cf690b\AndroidManifest.xml:2:1-8:12
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\7ef08fddcf5ffc63dccca238fe19d27c\AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\998b03e61fe080434b919a0abdfb1003\AndroidManifest.xml:45:1-56:12
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\0ef7c7089ef81359025f02b2f4097f45\AndroidManifest.xml:2:1-13:12
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\150f3550496e00b99ab862756cf32d5d\AndroidManifest.xml:22:1-33:12
+MERGED from [com.google.firebase:firebase-crash-license:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-crash-license-12.0.0.aar\cfa6fd1eb76ce14ebe959a1a20a98288\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.0.aar\91a98ae9e7e71d19cbb72fb43dd48328\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-common-license:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-common-license-12.0.0.aar\27f1583e8431ee3558e7f594645fd46c\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.0.aar\2694ef115ca7dab40b73871561005078\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.0.aar\bc5885b46647a5995385e3b90294aebd\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-12.0.0.aar\ff7cca33abbb66e513c759763174e954\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-12.0.0.aar\b5f97d33af473f6629f54b457176b065\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-12.0.0.aar\88809476b4c6082f07ad93e3542777f1\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-iid-license:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-12.0.0.aar\8a04dd823bec14a55769ea41727c5cb8\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-12.0.0.aar\b5a34bd2d8aac0b40875fe372c634881\AndroidManifest.xml:2:1-8:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\ee923ce3129f2311b5b987ed63237d5d\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:16:1-236:12
+INJECTED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:16:1-236:12
+	package
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:17:5-39
+	android:versionName
+		INJECTED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:16:1-236:12
+		INJECTED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:16:1-236:12
+		INJECTED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:16:11-69
+	android:theme
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:18:5-36
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:20:5-67
+MERGED from [com.google.firebase:firebase-crash:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-crash-12.0.0.aar\24ef0304cc16a49e10f35321c81542de\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-crash:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-crash-12.0.0.aar\24ef0304cc16a49e10f35321c81542de\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.0.aar\041cb0662c632be22428d8382df90833\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.0.aar\041cb0662c632be22428d8382df90833\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.0.aar\cdad0717f25eb67b4b5e0179e8d3e67c\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.0.aar\cdad0717f25eb67b4b5e0179e8d3e67c\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.0.aar\ef298b7d4b8a3b6e0be7eaa0fdd1eccc\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.0.aar\ef298b7d4b8a3b6e0be7eaa0fdd1eccc\AndroidManifest.xml:23:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\7e5ae0634e33f4d911be1de16b3689d9\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\7e5ae0634e33f4d911be1de16b3689d9\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\7ef08fddcf5ffc63dccca238fe19d27c\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\7ef08fddcf5ffc63dccca238fe19d27c\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\998b03e61fe080434b919a0abdfb1003\AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\998b03e61fe080434b919a0abdfb1003\AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\0ef7c7089ef81359025f02b2f4097f45\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\0ef7c7089ef81359025f02b2f4097f45\AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\150f3550496e00b99ab862756cf32d5d\AndroidManifest.xml:29:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\150f3550496e00b99ab862756cf32d5d\AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:20:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:21:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:22:5-68
+MERGED from [com.google.firebase:firebase-analytics:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.0.aar\041cb0662c632be22428d8382df90833\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.0.aar\041cb0662c632be22428d8382df90833\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.0.aar\cdad0717f25eb67b4b5e0179e8d3e67c\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.0.aar\cdad0717f25eb67b4b5e0179e8d3e67c\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.0.aar\ef298b7d4b8a3b6e0be7eaa0fdd1eccc\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.0.aar\ef298b7d4b8a3b6e0be7eaa0fdd1eccc\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:22:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.0.aar\041cb0662c632be22428d8382df90833\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.0.aar\041cb0662c632be22428d8382df90833\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.0.aar\cdad0717f25eb67b4b5e0179e8d3e67c\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.0.aar\cdad0717f25eb67b4b5e0179e8d3e67c\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.0.aar\ef298b7d4b8a3b6e0be7eaa0fdd1eccc\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.0.aar\ef298b7d4b8a3b6e0be7eaa0fdd1eccc\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:23:22-76
+application
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:25:5-234:19
+MERGED from [com.android.support:support-v13:26.1.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\d88a56a79f9479fe1f2de2957173691e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v13:26.1.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\d88a56a79f9479fe1f2de2957173691e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.firebase:firebase-auth:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.0.aar\f7cad1f1555779a3ca879ae289297515\AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-auth:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.0.aar\f7cad1f1555779a3ca879ae289297515\AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.0.aar\847eca051324db23d809746a5800fea0\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.0.aar\847eca051324db23d809746a5800fea0\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-messaging-12.0.0.aar\94f7263711a17d0891df0fe8e0e81a50\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-messaging-12.0.0.aar\94f7263711a17d0891df0fe8e0e81a50\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-crash:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-crash-12.0.0.aar\24ef0304cc16a49e10f35321c81542de\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-crash:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-crash-12.0.0.aar\24ef0304cc16a49e10f35321c81542de\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-core:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-core-12.0.0.aar\883839c47143f8d2f7140339d8f24668\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-core-12.0.0.aar\883839c47143f8d2f7140339d8f24668\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.0.aar\041cb0662c632be22428d8382df90833\AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.0.aar\041cb0662c632be22428d8382df90833\AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.0.aar\cdad0717f25eb67b4b5e0179e8d3e67c\AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.0.aar\cdad0717f25eb67b4b5e0179e8d3e67c\AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.0.aar\ef298b7d4b8a3b6e0be7eaa0fdd1eccc\AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.0.aar\ef298b7d4b8a3b6e0be7eaa0fdd1eccc\AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.0.aar\b2dc13ce91478ddcebb4f5616f619ee2\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.0.aar\b2dc13ce91478ddcebb4f5616f619ee2\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-base:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.0.aar\5870921f3794f8f32b612eb9b1ddfa46\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.0.aar\5870921f3794f8f32b612eb9b1ddfa46\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.0.aar\ba7a657996f8adfba3497f77cd1e26d1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.0.aar\ba7a657996f8adfba3497f77cd1e26d1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.0.aar\a8759c24387d536c79822f10c70e6f8a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.0.aar\a8759c24387d536c79822f10c70e6f8a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.android:facebook-login:4.33.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\facebook-login-4.33.0.aar\4e185b107e12c05eaf649cea1d82df60\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.33.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\facebook-login-4.33.0.aar\4e185b107e12c05eaf649cea1d82df60\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.33.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\facebook-common-4.33.0.aar\ac7e71439136d38dd527832afd3db8fd\AndroidManifest.xml:28:5-34:19
+MERGED from [com.facebook.android:facebook-common:4.33.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\facebook-common-4.33.0.aar\ac7e71439136d38dd527832afd3db8fd\AndroidManifest.xml:28:5-34:19
+MERGED from [com.jaeger.statusbarutil:library:1.4.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\library-1.4.0.aar\f849016c87f1f177fd29976d586fff77\AndroidManifest.xml:11:5-20
+MERGED from [com.jaeger.statusbarutil:library:1.4.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\library-1.4.0.aar\f849016c87f1f177fd29976d586fff77\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:26.1.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\90e8fb1e4ab3357fdcd04c55fe46a585\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\90e8fb1e4ab3357fdcd04c55fe46a585\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\d5c80629ab4b167bd3129ef583f212f4\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\d5c80629ab4b167bd3129ef583f212f4\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\0f7bedf746da2a00247ca6140dfe5407\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\0f7bedf746da2a00247ca6140dfe5407\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\8c819666a99698cec3de235f93c49dd5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\8c819666a99698cec3de235f93c49dd5\AndroidManifest.xml:9:5-20
+MERGED from [io.paperdb:paperdb:2.5] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\paperdb-2.5.aar\25074508b65051e92f0b4f13e7098689\AndroidManifest.xml:12:5-20
+MERGED from [io.paperdb:paperdb:2.5] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\paperdb-2.5.aar\25074508b65051e92f0b4f13e7098689\AndroidManifest.xml:12:5-20
+MERGED from [com.github.liuguangqiang.swipeback:library:1.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\library-1.0.2.aar\64ef518d4f3d951d550bd33be36a0550\AndroidManifest.xml:9:5-47
+MERGED from [com.github.liuguangqiang.swipeback:library:1.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\library-1.0.2.aar\64ef518d4f3d951d550bd33be36a0550\AndroidManifest.xml:9:5-47
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b068f8beadf8748a110b2f23c515c0af\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b068f8beadf8748a110b2f23c515c0af\AndroidManifest.xml:9:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\7e5ae0634e33f4d911be1de16b3689d9\AndroidManifest.xml:11:5-17:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\7e5ae0634e33f4d911be1de16b3689d9\AndroidManifest.xml:11:5-17:19
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\1e7b5089016e34509d71c4f6766b3308\AndroidManifest.xml:26:5-40:19
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\1e7b5089016e34509d71c4f6766b3308\AndroidManifest.xml:26:5-40:19
+MERGED from [com.facebook.android:facebook-core:4.33.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\4606a4589de5451f5f29961862c921bd\AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.android:facebook-core:4.33.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\4606a4589de5451f5f29961862c921bd\AndroidManifest.xml:28:5-51:19
+MERGED from [com.google.firebase:firebase-auth-license:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-12.0.0.aar\d748e4ebce6211045c819dc807b45818\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-auth-license:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-12.0.0.aar\d748e4ebce6211045c819dc807b45818\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-12.0.0.aar\fe0c305d6e7c1cb0fce5e58ac4cf690b\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-12.0.0.aar\fe0c305d6e7c1cb0fce5e58ac4cf690b\AndroidManifest.xml:5:5-6:19
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\7ef08fddcf5ffc63dccca238fe19d27c\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\7ef08fddcf5ffc63dccca238fe19d27c\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\998b03e61fe080434b919a0abdfb1003\AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\998b03e61fe080434b919a0abdfb1003\AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\0ef7c7089ef81359025f02b2f4097f45\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\0ef7c7089ef81359025f02b2f4097f45\AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\150f3550496e00b99ab862756cf32d5d\AndroidManifest.xml:31:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\150f3550496e00b99ab862756cf32d5d\AndroidManifest.xml:31:5-20
+MERGED from [com.google.firebase:firebase-crash-license:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-crash-license-12.0.0.aar\cfa6fd1eb76ce14ebe959a1a20a98288\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-crash-license:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-crash-license-12.0.0.aar\cfa6fd1eb76ce14ebe959a1a20a98288\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.0.aar\91a98ae9e7e71d19cbb72fb43dd48328\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.0.aar\91a98ae9e7e71d19cbb72fb43dd48328\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-common-license:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-common-license-12.0.0.aar\27f1583e8431ee3558e7f594645fd46c\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-common-license:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-common-license-12.0.0.aar\27f1583e8431ee3558e7f594645fd46c\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.0.aar\2694ef115ca7dab40b73871561005078\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.0.aar\2694ef115ca7dab40b73871561005078\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-base-license:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.0.aar\bc5885b46647a5995385e3b90294aebd\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-base-license:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.0.aar\bc5885b46647a5995385e3b90294aebd\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-12.0.0.aar\ff7cca33abbb66e513c759763174e954\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-12.0.0.aar\ff7cca33abbb66e513c759763174e954\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-12.0.0.aar\b5f97d33af473f6629f54b457176b065\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-12.0.0.aar\b5f97d33af473f6629f54b457176b065\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-12.0.0.aar\88809476b4c6082f07ad93e3542777f1\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-12.0.0.aar\88809476b4c6082f07ad93e3542777f1\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-iid-license:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-12.0.0.aar\8a04dd823bec14a55769ea41727c5cb8\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-iid-license:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-12.0.0.aar\8a04dd823bec14a55769ea41727c5cb8\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-12.0.0.aar\b5a34bd2d8aac0b40875fe372c634881\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-12.0.0.aar\b5a34bd2d8aac0b40875fe372c634881\AndroidManifest.xml:5:5-6:19
+	android:supportsRtl
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:29:9-35
+	android:label
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:28:9-41
+	android:icon
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:27:9-43
+	android:allowBackup
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:26:9-35
+meta-data#com.google.firebase.messaging.default_notification_color
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:30:9-32:53
+	android:resource
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:32:13-50
+	android:name
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:31:13-84
+meta-data#com.google.firebase.messaging.default_notification_icon
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:34:9-36:69
+	android:resource
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:36:13-66
+	android:name
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:35:13-83
+activity#com.radiobicocca.android.ui.SplashActivity
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:39:9-48:20
+	android:screenOrientation
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:41:13-49
+	android:theme
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:42:13-67
+	android:name
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:40:13-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:43:13-47:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:44:17-69
+	android:name
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:46:27-74
+activity#com.radiobicocca.android.ui.MainActivity
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:49:9-53:59
+	android:screenOrientation
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:52:13-49
+	android:launchMode
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:51:13-43
+	android:theme
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:53:13-56
+	android:name
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:50:13-44
+service#com.radiobicocca.android.Service.MusicService
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:55:9-62:19
+	android:enabled
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:57:13-35
+	android:exported
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:58:13-36
+	android:name
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:56:13-49
+intent-filter#action:name:android.media.browse.MediaBrowserService
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:59:13-61:29
+action#android.media.browse.MediaBrowserService
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:60:17-83
+	android:name
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:60:25-80
+service#com.radiobicocca.android.Firebase.MyFirebaseMessagingService
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:63:9-67:19
+	android:name
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:63:18-69
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:64:13-66:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:65:17-78
+	android:name
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:65:25-75
+receiver#android.support.v4.media.session.MediaButtonReceiver
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:77:9-81:20
+	android:name
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:77:19-86
+intent-filter#action:name:android.intent.action.MEDIA_BUTTON
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:78:13-80:29
+action#android.intent.action.MEDIA_BUTTON
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:79:17-77
+	android:name
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:79:25-74
+activity#com.radiobicocca.android.ui.ArticleDetailActivity
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:92:9-100:20
+	android:parentActivityName
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:95:13-65
+	android:label
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:94:13-57
+	android:theme
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:96:13-56
+	android:name
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:93:13-53
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:97:13-99:83
+	android:value
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:99:17-80
+	android:name
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:98:17-63
+activity#com.radiobicocca.android.ui.BlogPostListActivity
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:101:9-110:20
+	android:screenOrientation
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:105:13-49
+	android:parentActivityName
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:104:13-58
+	android:label
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:103:13-45
+	android:theme
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:106:13-56
+	android:name
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:102:13-52
+activity#com.radiobicocca.android.ui.ProgrammiActivity
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:111:9-120:20
+	android:screenOrientation
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:115:13-49
+	android:parentActivityName
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:114:13-58
+	android:label
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:113:13-51
+	android:theme
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:116:13-56
+	android:name
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:112:13-49
+activity#com.radiobicocca.android.ui.InfoActivity
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:121:9-136:20
+	android:screenOrientation
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:125:13-49
+	android:parentActivityName
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:124:13-62
+	android:label
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:123:13-52
+	android:theme
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:126:13-56
+	android:name
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:122:13-44
+intent-filter#action:name:android.intent.action.INFO+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:127:13-131:29
+action#android.intent.action.INFO
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:128:17-69
+	android:name
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:128:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:130:17-76
+	android:name
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:130:27-73
+activity#com.radiobicocca.android.ui.CommentActivity
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:137:9-147:20
+	android:screenOrientation
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:141:13-49
+	android:parentActivityName
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:140:13-58
+	android:label
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:139:13-51
+	android:windowSoftInputMode
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:143:13-67
+	android:theme
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:142:13-56
+	android:name
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:138:13-47
+activity#com.radiobicocca.android.ui.SettingsActivity
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:148:9-157:20
+	android:screenOrientation
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:152:13-49
+	android:parentActivityName
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:151:13-58
+	android:label
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:150:13-60
+	android:theme
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:153:13-44
+	android:name
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:149:13-48
+activity#com.radiobicocca.android.ui.EasterEggActivity
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:158:9-166:20
+	android:screenOrientation
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:161:13-50
+	android:parentActivityName
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:160:13-58
+	android:theme
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:162:13-56
+	android:name
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:159:13-49
+activity#com.radiobicocca.android.ui.FollowUsActivity
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:167:9-176:20
+	android:screenOrientation
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:171:13-49
+	android:parentActivityName
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:170:13-58
+	android:label
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:169:13-36
+	android:theme
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:172:13-56
+	android:name
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:168:13-48
+activity#com.radiobicocca.android.ui.TeamActivity
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:177:9-185:20
+	android:screenOrientation
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:180:13-49
+	android:parentActivityName
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:179:13-58
+	android:label
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:178:13-33
+	android:theme
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:181:13-56
+	android:name
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:177:19-50
+activity#com.radiobicocca.android.ui.ProfileActivity
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:186:9-196:20
+	android:screenOrientation
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:190:13-49
+	android:parentActivityName
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:189:13-58
+	android:label
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:188:13-36
+	android:windowSoftInputMode
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:192:13-67
+	android:theme
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:191:13-67
+	android:name
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:187:13-47
+meta-data#io.fabric.ApiKey
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:198:9-200:72
+	android:value
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:200:13-69
+	android:name
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:199:13-44
+service#com.radiobicocca.android.Firebase.MyFirebaseInstanceIdService
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:205:9-209:19
+	android:name
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:205:18-70
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:206:13-208:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:207:17-80
+	android:name
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:207:25-77
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:213:9-215:55
+	android:value
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:215:13-52
+	android:name
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:214:13-58
+activity#com.facebook.FacebookActivity
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:217:9-220:48
+MERGED from [com.facebook.android:facebook-common:4.33.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\facebook-common-4.33.0.aar\ac7e71439136d38dd527832afd3db8fd\AndroidManifest.xml:29:9-32:66
+MERGED from [com.facebook.android:facebook-common:4.33.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\facebook-common-4.33.0.aar\ac7e71439136d38dd527832afd3db8fd\AndroidManifest.xml:29:9-32:66
+	android:label
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:220:13-45
+	android:configChanges
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:219:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.33.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\facebook-common-4.33.0.aar\ac7e71439136d38dd527832afd3db8fd\AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:218:13-57
+activity#com.facebook.CustomTabActivity
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:221:9-232:20
+	android:exported
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:223:13-36
+	android:name
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:222:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/fb_login_protocol_scheme
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:224:13-231:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:225:17-69
+	android:name
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:225:25-66
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:228:17-78
+	android:name
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:228:27-75
+data
+ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:230:17-75
+	android:scheme
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:230:23-72
+uses-sdk
+INJECTED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml
+MERGED from [com.jackandphantom.android:blurimage:1.2.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\blurimage-1.2.0.aar\1d70fd157b1fcf32c3975424e71dfa93\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jackandphantom.android:blurimage:1.2.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\blurimage-1.2.0.aar\1d70fd157b1fcf32c3975424e71dfa93\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v13:26.1.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\d88a56a79f9479fe1f2de2957173691e\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:26.1.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\d88a56a79f9479fe1f2de2957173691e\AndroidManifest.xml:21:5-23:55
+MERGED from [com.google.firebase:firebase-firestore:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-firestore-12.0.0.aar\c10b4f25c7ba20b5160fc90dbd32a126\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-firestore:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-firestore-12.0.0.aar\c10b4f25c7ba20b5160fc90dbd32a126\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.0.aar\f7cad1f1555779a3ca879ae289297515\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.0.aar\f7cad1f1555779a3ca879ae289297515\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.0.aar\847eca051324db23d809746a5800fea0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.0.aar\847eca051324db23d809746a5800fea0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-messaging-12.0.0.aar\94f7263711a17d0891df0fe8e0e81a50\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-messaging-12.0.0.aar\94f7263711a17d0891df0fe8e0e81a50\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-crash-12.0.0.aar\24ef0304cc16a49e10f35321c81542de\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-crash-12.0.0.aar\24ef0304cc16a49e10f35321c81542de\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-core-12.0.0.aar\883839c47143f8d2f7140339d8f24668\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-core-12.0.0.aar\883839c47143f8d2f7140339d8f24668\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.0.aar\041cb0662c632be22428d8382df90833\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.0.aar\041cb0662c632be22428d8382df90833\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.0.aar\cdad0717f25eb67b4b5e0179e8d3e67c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.0.aar\cdad0717f25eb67b4b5e0179e8d3e67c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.0.aar\ef298b7d4b8a3b6e0be7eaa0fdd1eccc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.0.aar\ef298b7d4b8a3b6e0be7eaa0fdd1eccc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.0.aar\b2dc13ce91478ddcebb4f5616f619ee2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.0.aar\b2dc13ce91478ddcebb4f5616f619ee2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-12.0.0.aar\a9def7e0e9530a2a715dd3e3e41af685\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-12.0.0.aar\a9def7e0e9530a2a715dd3e3e41af685\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-12.0.0.aar\0cab0d9ae569e637d0667cd57b9f4d13\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-12.0.0.aar\0cab0d9ae569e637d0667cd57b9f4d13\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.0.aar\5870921f3794f8f32b612eb9b1ddfa46\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.0.aar\5870921f3794f8f32b612eb9b1ddfa46\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.0.aar\ba7a657996f8adfba3497f77cd1e26d1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.0.aar\ba7a657996f8adfba3497f77cd1e26d1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.0.aar\a8759c24387d536c79822f10c70e6f8a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.0.aar\a8759c24387d536c79822f10c70e6f8a\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-login:4.33.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\facebook-login-4.33.0.aar\4e185b107e12c05eaf649cea1d82df60\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.33.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\facebook-login-4.33.0.aar\4e185b107e12c05eaf649cea1d82df60\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.33.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\facebook-common-4.33.0.aar\ac7e71439136d38dd527832afd3db8fd\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.33.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\facebook-common-4.33.0.aar\ac7e71439136d38dd527832afd3db8fd\AndroidManifest.xml:24:5-26:41
+MERGED from [com.jaeger.statusbarutil:library:1.4.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\library-1.4.0.aar\f849016c87f1f177fd29976d586fff77\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jaeger.statusbarutil:library:1.4.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\library-1.4.0.aar\f849016c87f1f177fd29976d586fff77\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:26.1.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\90e8fb1e4ab3357fdcd04c55fe46a585\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\90e8fb1e4ab3357fdcd04c55fe46a585\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:26.1.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\d5c80629ab4b167bd3129ef583f212f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\d5c80629ab4b167bd3129ef583f212f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\7d034fb5029d93a6f19acd9925990463\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\7d034fb5029d93a6f19acd9925990463\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\50646d661be873f40be40a0ac06e4325\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\50646d661be873f40be40a0ac06e4325\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\0f7bedf746da2a00247ca6140dfe5407\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\0f7bedf746da2a00247ca6140dfe5407\AndroidManifest.xml:20:5-44
+MERGED from [com.github.florent37:diagonallayout:1.0.7] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\diagonallayout-1.0.7.aar\115e123b6f5efe6ea47fb0e4657df2f7\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.florent37:diagonallayout:1.0.7] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\diagonallayout-1.0.7.aar\115e123b6f5efe6ea47fb0e4657df2f7\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\8c819666a99698cec3de235f93c49dd5\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\8c819666a99698cec3de235f93c49dd5\AndroidManifest.xml:7:5-43
+MERGED from [io.paperdb:paperdb:2.5] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\paperdb-2.5.aar\25074508b65051e92f0b4f13e7098689\AndroidManifest.xml:8:5-10:41
+MERGED from [io.paperdb:paperdb:2.5] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\paperdb-2.5.aar\25074508b65051e92f0b4f13e7098689\AndroidManifest.xml:8:5-10:41
+MERGED from [com.makeramen:roundedimageview:2.3.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\roundedimageview-2.3.0.aar\7006c0febf7a53436478ef779724048e\AndroidManifest.xml:7:5-43
+MERGED from [com.makeramen:roundedimageview:2.3.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\roundedimageview-2.3.0.aar\7006c0febf7a53436478ef779724048e\AndroidManifest.xml:7:5-43
+MERGED from [com.github.liuguangqiang.swipeback:library:1.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\library-1.0.2.aar\64ef518d4f3d951d550bd33be36a0550\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.liuguangqiang.swipeback:library:1.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\library-1.0.2.aar\64ef518d4f3d951d550bd33be36a0550\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\3e34223c24daab418038c0100040db50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\3e34223c24daab418038c0100040db50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b068f8beadf8748a110b2f23c515c0af\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b068f8beadf8748a110b2f23c515c0af\AndroidManifest.xml:5:5-7:41
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\7e5ae0634e33f4d911be1de16b3689d9\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\7e5ae0634e33f4d911be1de16b3689d9\AndroidManifest.xml:7:5-43
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\1e7b5089016e34509d71c4f6766b3308\AndroidManifest.xml:22:5-24:41
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\1e7b5089016e34509d71c4f6766b3308\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\307f03184e45b3dd45aafb9f49ca0a82\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\307f03184e45b3dd45aafb9f49ca0a82\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.android:facebook-core:4.33.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\4606a4589de5451f5f29961862c921bd\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.33.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\4606a4589de5451f5f29961862c921bd\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\b59d894bf14e777a241115570994a16b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\b59d894bf14e777a241115570994a16b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\e4a9cdfcde0e121e1bb1dfd2359a192e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\e4a9cdfcde0e121e1bb1dfd2359a192e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\0d382ed8a2cc8cfbd654e06df6755c95\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\0d382ed8a2cc8cfbd654e06df6755c95\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\b111726cc82e460aa5eea7823e8a42b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\b111726cc82e460aa5eea7823e8a42b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\c0cd3651123518dd81d449fea1d00707\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\c0cd3651123518dd81d449fea1d00707\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\38226d3396703723fb461f7f6e70243f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\38226d3396703723fb461f7f6e70243f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\5e0673b516d6de43bb7dc45db376d3b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\5e0673b516d6de43bb7dc45db376d3b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\ea85e07407a147e6cfc8351a5162aea8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\ea85e07407a147e6cfc8351a5162aea8\AndroidManifest.xml:20:5-44
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\7ef08fddcf5ffc63dccca238fe19d27c\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\7ef08fddcf5ffc63dccca238fe19d27c\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\998b03e61fe080434b919a0abdfb1003\AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\998b03e61fe080434b919a0abdfb1003\AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\0ef7c7089ef81359025f02b2f4097f45\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\0ef7c7089ef81359025f02b2f4097f45\AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\150f3550496e00b99ab862756cf32d5d\AndroidManifest.xml:27:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\150f3550496e00b99ab862756cf32d5d\AndroidManifest.xml:27:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\ee923ce3129f2311b5b987ed63237d5d\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\ee923ce3129f2311b5b987ed63237d5d\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:26.1.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\d88a56a79f9479fe1f2de2957173691e\AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:26.1.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\d88a56a79f9479fe1f2de2957173691e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:design:26.1.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\90e8fb1e4ab3357fdcd04c55fe46a585\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:design:26.1.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\90e8fb1e4ab3357fdcd04c55fe46a585\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\d5c80629ab4b167bd3129ef583f212f4\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\d5c80629ab4b167bd3129ef583f212f4\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\0f7bedf746da2a00247ca6140dfe5407\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\0f7bedf746da2a00247ca6140dfe5407\AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [com.android.support:support-v13:26.1.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\d88a56a79f9479fe1f2de2957173691e\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v13:26.1.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\d88a56a79f9479fe1f2de2957173691e\AndroidManifest.xml:27:13-51
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.0.aar\f7cad1f1555779a3ca879ae289297515\AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.0.aar\f7cad1f1555779a3ca879ae289297515\AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.0.aar\f7cad1f1555779a3ca879ae289297515\AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.0.aar\f7cad1f1555779a3ca879ae289297515\AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.0.aar\f7cad1f1555779a3ca879ae289297515\AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.0.aar\f7cad1f1555779a3ca879ae289297515\AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.0.aar\f7cad1f1555779a3ca879ae289297515\AndroidManifest.xml:24:13-85
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.0.aar\847eca051324db23d809746a5800fea0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.0.aar\847eca051324db23d809746a5800fea0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.0.aar\847eca051324db23d809746a5800fea0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.0.aar\847eca051324db23d809746a5800fea0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.0.aar\847eca051324db23d809746a5800fea0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.0.aar\847eca051324db23d809746a5800fea0\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.0.aar\847eca051324db23d809746a5800fea0\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.0.aar\847eca051324db23d809746a5800fea0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.0.aar\847eca051324db23d809746a5800fea0\AndroidManifest.xml:34:13-89
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-messaging-12.0.0.aar\94f7263711a17d0891df0fe8e0e81a50\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-messaging-12.0.0.aar\94f7263711a17d0891df0fe8e0e81a50\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-messaging-12.0.0.aar\94f7263711a17d0891df0fe8e0e81a50\AndroidManifest.xml:29:13-82
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.0.aar\041cb0662c632be22428d8382df90833\AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.0.aar\cdad0717f25eb67b4b5e0179e8d3e67c\AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.0.aar\cdad0717f25eb67b4b5e0179e8d3e67c\AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.0.aar\041cb0662c632be22428d8382df90833\AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.0.aar\041cb0662c632be22428d8382df90833\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.0.aar\041cb0662c632be22428d8382df90833\AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.0.aar\041cb0662c632be22428d8382df90833\AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.0.aar\041cb0662c632be22428d8382df90833\AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.0.aar\041cb0662c632be22428d8382df90833\AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.0.aar\041cb0662c632be22428d8382df90833\AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.0.aar\041cb0662c632be22428d8382df90833\AndroidManifest.xml:34:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.0.aar\041cb0662c632be22428d8382df90833\AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.0.aar\041cb0662c632be22428d8382df90833\AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.0.aar\041cb0662c632be22428d8382df90833\AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.0.aar\041cb0662c632be22428d8382df90833\AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.0.aar\cdad0717f25eb67b4b5e0179e8d3e67c\AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.0.aar\cdad0717f25eb67b4b5e0179e8d3e67c\AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.0.aar\041cb0662c632be22428d8382df90833\AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.0.aar\041cb0662c632be22428d8382df90833\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.0.aar\041cb0662c632be22428d8382df90833\AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.0.aar\041cb0662c632be22428d8382df90833\AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.0.aar\041cb0662c632be22428d8382df90833\AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.0.aar\041cb0662c632be22428d8382df90833\AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.0.aar\041cb0662c632be22428d8382df90833\AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.0.aar\041cb0662c632be22428d8382df90833\AndroidManifest.xml:48:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.0.aar\ef298b7d4b8a3b6e0be7eaa0fdd1eccc\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.0.aar\ef298b7d4b8a3b6e0be7eaa0fdd1eccc\AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.0.aar\ef298b7d4b8a3b6e0be7eaa0fdd1eccc\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.0.aar\ef298b7d4b8a3b6e0be7eaa0fdd1eccc\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.0.aar\ef298b7d4b8a3b6e0be7eaa0fdd1eccc\AndroidManifest.xml:29:9-63
+permission#com.radiobicocca.android.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.0.aar\ef298b7d4b8a3b6e0be7eaa0fdd1eccc\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.0.aar\ef298b7d4b8a3b6e0be7eaa0fdd1eccc\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.0.aar\ef298b7d4b8a3b6e0be7eaa0fdd1eccc\AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.0.aar\ef298b7d4b8a3b6e0be7eaa0fdd1eccc\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.0.aar\ef298b7d4b8a3b6e0be7eaa0fdd1eccc\AndroidManifest.xml:32:22-76
+uses-permission#com.radiobicocca.android.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.0.aar\ef298b7d4b8a3b6e0be7eaa0fdd1eccc\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.0.aar\ef298b7d4b8a3b6e0be7eaa0fdd1eccc\AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.0.aar\ef298b7d4b8a3b6e0be7eaa0fdd1eccc\AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.0.aar\ef298b7d4b8a3b6e0be7eaa0fdd1eccc\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.0.aar\ef298b7d4b8a3b6e0be7eaa0fdd1eccc\AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.0.aar\ef298b7d4b8a3b6e0be7eaa0fdd1eccc\AndroidManifest.xml:36:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.0.aar\ef298b7d4b8a3b6e0be7eaa0fdd1eccc\AndroidManifest.xml:39:13-43:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.radiobicocca.android
+ADDED from [com.google.firebase:firebase-iid:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.0.aar\ef298b7d4b8a3b6e0be7eaa0fdd1eccc\AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.0.aar\ef298b7d4b8a3b6e0be7eaa0fdd1eccc\AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.0.aar\ef298b7d4b8a3b6e0be7eaa0fdd1eccc\AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.0.aar\ef298b7d4b8a3b6e0be7eaa0fdd1eccc\AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.0.aar\ef298b7d4b8a3b6e0be7eaa0fdd1eccc\AndroidManifest.xml:42:27-58
+category#com.radiobicocca.android
+ADDED from [com.google.firebase:firebase-iid:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.0.aar\ef298b7d4b8a3b6e0be7eaa0fdd1eccc\AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.0.aar\ef298b7d4b8a3b6e0be7eaa0fdd1eccc\AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.0.aar\ef298b7d4b8a3b6e0be7eaa0fdd1eccc\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.0.aar\ef298b7d4b8a3b6e0be7eaa0fdd1eccc\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.0.aar\ef298b7d4b8a3b6e0be7eaa0fdd1eccc\AndroidManifest.xml:51:13-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.0.aar\b2dc13ce91478ddcebb4f5616f619ee2\AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.0.aar\b2dc13ce91478ddcebb4f5616f619ee2\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.0.aar\b2dc13ce91478ddcebb4f5616f619ee2\AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.0.aar\b2dc13ce91478ddcebb4f5616f619ee2\AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.0.aar\b2dc13ce91478ddcebb4f5616f619ee2\AndroidManifest.xml:9:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.0.aar\5870921f3794f8f32b612eb9b1ddfa46\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.0.aar\5870921f3794f8f32b612eb9b1ddfa46\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.0.aar\5870921f3794f8f32b612eb9b1ddfa46\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.0.aar\5870921f3794f8f32b612eb9b1ddfa46\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.0.aar\a8759c24387d536c79822f10c70e6f8a\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.0.aar\a8759c24387d536c79822f10c70e6f8a\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:12.0.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.0.aar\a8759c24387d536c79822f10c70e6f8a\AndroidManifest.xml:24:13-58
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.33.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\facebook-common-4.33.0.aar\ac7e71439136d38dd527832afd3db8fd\AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.33.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\facebook-common-4.33.0.aar\ac7e71439136d38dd527832afd3db8fd\AndroidManifest.xml:33:19-68
+provider#com.crashlytics.android.CrashlyticsInitProvider
+ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\7e5ae0634e33f4d911be1de16b3689d9\AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\7e5ae0634e33f4d911be1de16b3689d9\AndroidManifest.xml:14:13-75
+	android:exported
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\7e5ae0634e33f4d911be1de16b3689d9\AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\7e5ae0634e33f4d911be1de16b3689d9\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\7e5ae0634e33f4d911be1de16b3689d9\AndroidManifest.xml:13:13-75
+service#com.firebase.jobdispatcher.GooglePlayReceiver
+ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\1e7b5089016e34509d71c4f6766b3308\AndroidManifest.xml:32:9-39:19
+	android:exported
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\1e7b5089016e34509d71c4f6766b3308\AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\1e7b5089016e34509d71c4f6766b3308\AndroidManifest.xml:35:13-93
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\1e7b5089016e34509d71c4f6766b3308\AndroidManifest.xml:33:13-73
+intent-filter#action:name:com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\1e7b5089016e34509d71c4f6766b3308\AndroidManifest.xml:36:13-38:29
+action#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\1e7b5089016e34509d71c4f6766b3308\AndroidManifest.xml:37:17-87
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\1e7b5089016e34509d71c4f6766b3308\AndroidManifest.xml:37:25-84
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.33.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\4606a4589de5451f5f29961862c921bd\AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.33.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\4606a4589de5451f5f29961862c921bd\AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.33.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\4606a4589de5451f5f29961862c921bd\AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.33.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\4606a4589de5451f5f29961862c921bd\AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:4.33.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\4606a4589de5451f5f29961862c921bd\AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.33.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\4606a4589de5451f5f29961862c921bd\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.33.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\4606a4589de5451f5f29961862c921bd\AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.33.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\4606a4589de5451f5f29961862c921bd\AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.33.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\4606a4589de5451f5f29961862c921bd\AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.33.0] C:\Users\lucap\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\4606a4589de5451f5f29961862c921bd\AndroidManifest.xml:48:25-92
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:16:1-236:12 reason: com.google.android.gms.license has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\lucap\Downloads\RadioBicocca\Application\src\main\AndroidManifest.xml:16:1-236:12 reason: com.google.android.gms.license requested WRITE_EXTERNAL_STORAGE

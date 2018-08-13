@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "297715304866",
+    "firebase_url": "https://app-radio-bicocca.firebaseio.com",
+    "project_id": "app-radio-bicocca",
+    "storage_bucket": "app-radio-bicocca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297715304866:android:c4fe5f81b6aedda7",
+        "android_client_info": {
+          "package_name": "com.radiobicocca.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297715304866-4glitamnsmq21hg05s9eugvplra12pua.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.radiobicocca.android",
+            "certificate_hash": "6b91145c86d1e783422fbee32f94b8a959fe2f07"
+          }
+        },
+        {
+          "client_id": "297715304866-jdrldupd60ksg3dtardsatuo4tbj5ao2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbMUGX3N-10C88H7piMXXuHfsaGCTSLDg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297715304866-jdrldupd60ksg3dtardsatuo4tbj5ao2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

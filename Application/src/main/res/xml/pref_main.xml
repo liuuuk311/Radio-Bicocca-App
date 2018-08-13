@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:key="prefScreen">
+    <PreferenceCategory
+        android:title="Generale">
+        <Preference
+            android:defaultValue="@string/default_username"
+            android:key="@string/key_username"
+            android:summary="@string/summary_username2"
+            android:title="@string/title_username" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/pref_title_notifications">
+
+        <SwitchPreference
+            android:defaultValue="true"
+            android:key="@string/notifications_new_message"
+            android:title="@string/title_new_notification_sound" />
+
+    </PreferenceCategory>
+
+    <!--<PreferenceCategory android:title="@string/pref_title_follow_us">-->
+        <!--<Preference-->
+            <!--android:key="@string/key_facebook"-->
+            <!--android:title="@string/title_facebook">-->
+        <!--</Preference>-->
+        <!--<Preference-->
+            <!--android:title="@string/title_instagram">-->
+            <!--<intent-->
+                <!--android:action="android.intent.action.VIEW"-->
+                <!--android:data="@string/url_instagram" />-->
+        <!--</Preference>-->
+        <!--<Preference-->
+            <!--android:title="@string/title_twitter">-->
+            <!--<intent-->
+                <!--android:action="android.intent.action.VIEW"-->
+                <!--android:data="@string/url_twitter" />-->
+        <!--</Preference>-->
+        <!--<Preference-->
+            <!--android:title="@string/title_youtube">-->
+            <!--<intent-->
+                <!--android:action="android.intent.action.VIEW"-->
+                <!--android:data="@string/url_youtube" />-->
+        <!--</Preference>-->
+        <!--<Preference-->
+            <!--android:title="@string/title_spotify">-->
+            <!--<intent-->
+                <!--android:action="android.intent.action.VIEW"-->
+                <!--android:data="@string/url_spotify" />-->
+        <!--</Preference>-->
+        <!--<Preference-->
+            <!--android:title="@string/title_soundcloud">-->
+            <!--<intent-->
+                <!--android:action="android.intent.action.VIEW"-->
+                <!--android:data="@string/url_soundcloud" />-->
+        <!--</Preference>-->
+    <!--</PreferenceCategory>-->
+
+    <PreferenceCategory android:title="@string/pref_title_info">
+
+        <Preference
+            android:selectable="true"
+            android:summary="@string/name_complete">
+            <intent android:action="android.intent.action.INFO"/>
+        </Preference>
+
+        <Preference
+            android:summary="@string/app_version"
+            android:title="@string/title_version" />
+
+        <Preference
+            android:key="@string/key_send_feedback"
+            android:summary="@string/summary_feedback"
+            android:title="@string/title_feedback" />
+
+        <Preference
+            android:key="@string/key_dev"
+            android:title="@string/title_dev"
+            android:summary="@string/dev_name"/>
+
+        <Preference
+            android:key="@string/key_coo"
+            android:title="@string/title_coo"
+            android:summary="@string/coo_name"/>
+
+
+    </PreferenceCategory>
+</PreferenceScreen>
